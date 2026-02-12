@@ -1,0 +1,9 @@
+.env
+node_modules/
+.vscode/
+.cursor/plans
+practice.tsc
+tsconfig-explained.md
+emails.csv
+main_Readme.md
+dist
